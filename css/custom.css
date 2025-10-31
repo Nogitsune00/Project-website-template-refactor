@@ -38,3 +38,27 @@
       opacity: 1 !important;
       font-weight: 700 !important;
     }
+
+.banner-bg-image{
+  background: url('../img/dummy-background.jpeg') no-repeat center;
+  background-size: cover;
+  height: 500px;
+}
+.transparent-black-bg{
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.adaptive-image-bg{
+  background-image: url('../img/dummay-img-long.png');
+  min-height: 150px;
+}
+
+.max-width-300{
+  max-width: 300px;
+}
+
+.menu-embedding {
+  color: rgb(255, 255, 255) !important;
+  opacity: 1 !important;
+  font-weight: 700 !important;
+}
